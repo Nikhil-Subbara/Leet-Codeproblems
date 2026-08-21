@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0242-valid-anagram) |
+| [3110-score-of-a-string](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3110-score-of-a-string) |
 ## Sorting
 |  |
 | ------- |
