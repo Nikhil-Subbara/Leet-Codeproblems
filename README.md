@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0485-max-consecutive-ones) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1470-shuffle-the-array) |
 | [1550-three-consecutive-odds](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1550-three-consecutive-odds) |
 | [1929-concatenation-of-array](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1929-concatenation-of-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0412-fizz-buzz) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
