@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3701-compute-alternating-sum](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3701-compute-alternating-sum) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
 |  |
 | ------- |
