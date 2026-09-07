@@ -16,11 +16,11 @@ int* intersection(int* nums1, int nums1Size, int* nums2, int nums2Size, int* ret
             {
                 ans[k] = nums2[j];
                 k++;
-                //break;   // important
+                break;   // important
             }
         }
     }
-
+  //Removing duplicates
     int p = 0;
 
     for (int l = 0; l < k; l++)
