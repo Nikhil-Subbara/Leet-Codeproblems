@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
 |  |
