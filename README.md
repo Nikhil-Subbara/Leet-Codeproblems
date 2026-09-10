@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0050-powx-n) |
 | [0412-fizz-buzz](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1748-sum-of-unique-elements) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
