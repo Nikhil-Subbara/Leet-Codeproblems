@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3668-restore-finishing-order](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3668-restore-finishing-order) |
