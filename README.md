@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3668-restore-finishing-order](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3701-compute-alternating-sum) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0414-third-maximum-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Two Pointers
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0349-intersection-of-two-arrays) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
 | ------- |
