@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0485-max-consecutive-ones) |
+| [0905-sort-array-by-parity](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1470-shuffle-the-array) |
 | [1550-three-consecutive-odds](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1550-three-consecutive-odds) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0905-sort-array-by-parity) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0905-sort-array-by-parity) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
