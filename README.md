@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0389-find-the-difference) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0905-sort-array-by-parity) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0258-add-digits) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
