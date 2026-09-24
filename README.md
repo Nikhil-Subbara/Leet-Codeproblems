@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3701-compute-alternating-sum) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3875-construct-uniform-parity-array-i) |
