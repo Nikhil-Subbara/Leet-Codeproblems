@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3925-concatenate-array-with-reverse) |
+| [4020-elevator-requests-i](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/4020-elevator-requests-i) |
 ## Simulation
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3925-concatenate-array-with-reverse) |
+| [4020-elevator-requests-i](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
 | ------- |
