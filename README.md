@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3536-maximum-product-of-two-digits](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Two Pointers
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3536-maximum-product-of-two-digits](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3870-count-commas-in-range) |
