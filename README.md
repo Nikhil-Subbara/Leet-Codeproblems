@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0412-fizz-buzz) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3110-score-of-a-string](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
@@ -153,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0202-happy-number) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
