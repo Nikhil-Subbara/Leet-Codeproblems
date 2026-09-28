@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0203-remove-linked-list-elements) |
 ## Number Theory
 |  |
 | ------- |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
