@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1748-sum-of-unique-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3731-find-missing-elements) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1816-truncate-sentence](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1816-truncate-sentence) |
 | [3110-score-of-a-string](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3110-score-of-a-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
