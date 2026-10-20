@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0412-fizz-buzz) |
@@ -218,4 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
