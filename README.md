@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0485-max-consecutive-ones) |
 | [0905-sort-array-by-parity](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0905-sort-array-by-parity) |
+| [1207-unique-number-of-occurrences](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0771-jewels-and-stones) |
+| [1207-unique-number-of-occurrences](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1748-sum-of-unique-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3146-permutation-difference-between-two-strings) |
