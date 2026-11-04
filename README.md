@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2574-left-and-right-sum-differences) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1816-truncate-sentence](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2390-removing-stars-from-a-string](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2390-removing-stars-from-a-string) |
 | [3110-score-of-a-string](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3146-permutation-difference-between-two-strings) |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1046-last-stone-weight) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
