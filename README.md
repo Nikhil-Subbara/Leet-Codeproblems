@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2574-left-and-right-sum-differences) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1748-sum-of-unique-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2367-number-of-arithmetic-triplets) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0905-sort-array-by-parity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2367-number-of-arithmetic-triplets) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Bit Manipulation
 |  |
