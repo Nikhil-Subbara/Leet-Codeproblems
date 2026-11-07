@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3903-smallest-stable-index-i](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3925-concatenate-array-with-reverse) |
 | [4020-elevator-requests-i](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/4020-elevator-requests-i) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Bit Manipulation
 |  |
 | ------- |
