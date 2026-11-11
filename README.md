@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0088-merge-sorted-array](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0164-maximum-gap) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0374-guess-number-higher-or-lower) |
@@ -268,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2185-counting-words-with-a-given-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
