@@ -3,7 +3,7 @@ int* plusOne(int* digits, int digitsSize, int* returnSize)
     int *ans = (int *)malloc((digitsSize + 1) * sizeof(int));
 
     int i = digitsSize - 1;
-
+   //checks the last digit whether is 9 or not
     while (i >= 0)
     {
         if (digits[i] < 9)
@@ -18,7 +18,7 @@ int* plusOne(int* digits, int digitsSize, int* returnSize)
 
         i--;
     }
-
+    //For single digit
     if (i == -1)
     {
         ans[0] = 1;
@@ -28,6 +28,7 @@ int* plusOne(int* digits, int digitsSize, int* returnSize)
 
         *returnSize = digitsSize + 1;
     }
+    //more than one
     else
     {
         for (int j = 0; j < digitsSize; j++)
