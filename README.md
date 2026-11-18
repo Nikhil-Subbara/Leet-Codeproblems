@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0414-third-maximum-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0771-jewels-and-stones) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0414-third-maximum-number) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1323-maximum-69-number) |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1486-xor-operation-in-an-array) |
@@ -198,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0374-guess-number-higher-or-lower) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
