@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0905-sort-array-by-parity) |
 | [1046-last-stone-weight](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1207-unique-number-of-occurrences) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1748-sum-of-unique-elements) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0905-sort-array-by-parity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1486-xor-operation-in-an-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2433-find-the-original-array-of-prefix-xor) |
