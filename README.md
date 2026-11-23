@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1528-shuffle-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1207-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1748-sum-of-unique-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2367-number-of-arithmetic-triplets) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/0905-sort-array-by-parity) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -308,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3364-minimum-positive-sum-subarray) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
