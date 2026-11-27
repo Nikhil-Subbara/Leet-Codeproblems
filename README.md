@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3917-count-indices-with-opposite-parity](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3917-count-indices-with-opposite-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3925-concatenate-array-with-reverse) |
 | [4020-elevator-requests-i](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/4020-elevator-requests-i) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Simulation
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3731-find-missing-elements) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## String
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Nikhil-Subbara/Leet-Codeproblems/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Recursion
 |  |
 | ------- |
